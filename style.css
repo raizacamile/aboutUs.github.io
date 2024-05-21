@@ -233,7 +233,7 @@ section{
 #sidePic img{
     position: fixed;
     right: 8%;
-    top: 16.5%;
+    top: 16%;
     z-index: 1;
 }
 #scrollContainer h2{
